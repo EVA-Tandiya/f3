@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.heading{
+    font-size: 23px;
+    color: lightgreen;
+} 
+.note{
+    color: black;
+    font-size: 15px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    color: white;
+    background-color: grey;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px beige;
+}
